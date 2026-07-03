@@ -1,4 +1,4 @@
-# 
+# Personalizado JetBrains WebStorm preajustes para Mac OS | Nativo JetBrains WebStorm preajustes para PC Windows. Con minimapa y visualización de respuestas — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
